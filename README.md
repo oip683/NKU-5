@@ -15,10 +15,9 @@ void fun(int m,int k,int xx[]){
 				xx[h]=m;
 				h++;
 			}
-		}
-		
-		
+		}	
 	}
+	
 int main(){
 	int a[100]={0};
 	int b=20;
