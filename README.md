@@ -1,5 +1,6 @@
 # NKU-5
 大于m的k个素数
+
 #include<stdio.h>
 void fun(int m,int k,int xx[]){
 	int i,h=0,l;
